@@ -1,7 +1,7 @@
 <div> <img src="https://res.cloudinary.com/dixoaggbe/image/upload/v1725019281/GitHub.gif" alt="MasterHead" /> </div>
 
 <h1 align="center">Hi 👋, I'm Mfoniso Ndaobong</h1>
-<h3 align="center">A Passionate Software Engineer <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /></h3>
+<h3 align="center">A Passionate Software Engineer <img src="https://res.cloudinary.com/df0k88iqd/image/upload/v1740835900/githubimage.png" width="40" /></h3>
 
 <p> <img src="https://res.cloudinary.com/dixoaggbe/image/upload/v1725020184/Programmerimg.gif" alt="Programmer" align="right" width="400" /> </p>
 
