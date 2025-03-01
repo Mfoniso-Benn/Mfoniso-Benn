@@ -5,7 +5,7 @@
 
 <p> <img src="https://res.cloudinary.com/dixoaggbe/image/upload/v1725020184/Programmerimg.gif" alt="Programmer" align="right" width="400" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eddiebenn&label=Profile%20views&color=0e75b6&style=flat" alt="eddiebenn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mfoniso-benn&label=Profile%20views&color=0e75b6&style=flat" alt="mfoniso-benn" /> </p>
 
 
 - 💼 I’m currently a freelancer at [Upwork](https://www.upwork.com)
