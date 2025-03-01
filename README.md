@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mfoniso Ndaobong</h1>
 <h3 align="center">A Passionate Software Engineer <img src="https://res.cloudinary.com/df0k88iqd/image/upload/v1740835900/githubimage.png" width="40" /></h3>
 
-<p> <img src="https://res.cloudinary.com/df0k88iqd/image/upload/v1740837217/replacementimagegithub.gif" alt="Programmer" align="right" width="350" height="350" /> </p>
+<p> <img src="https://res.cloudinary.com/df0k88iqd/image/upload/v1740837217/replacementimagegithub.gif" alt="Programmer" align="right" width="300" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfoniso-benn&label=Profile%20views&color=0e75b6&style=flat" alt="mfoniso-benn" /> </p>
 
