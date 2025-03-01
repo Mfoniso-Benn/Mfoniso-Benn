@@ -1,4 +1,4 @@
-<div> <img src="https://res.cloudinary.com/df0k88iqd/image/upload/v1740837635/masterimagegithub.gif" alt="MasterHead" align="center" width="700" /> </div>
+<div> <img src="https://res.cloudinary.com/df0k88iqd/image/upload/v1740837635/masterimagegithub.gif" alt="MasterHead" align="center" width="1000" /> </div>
 
 <h1 align="center">Hi 👋, I'm Mfoniso Ndaobong</h1>
 <h3 align="center">A Passionate Software Engineer <img src="https://res.cloudinary.com/df0k88iqd/image/upload/v1740835900/githubimage.png" width="40" /></h3>
